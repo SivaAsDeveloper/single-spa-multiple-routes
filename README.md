@@ -2,7 +2,7 @@
 Created a simple angular application with multiple routes which is working fine inside the app but not working when we refresh the browser
 
 #steps to reproduce this issue
-1. Get the Source Code
+1. Get the Source Code  - single-spa-multiple-route.zip This will have the complete code
 2. Go to the Folder single-spa-multiple-route
 3. cd MicroFrontEnd  `Go to MicroFrontEnd Folder`
 4. npm install       `Run the npm install Command`
